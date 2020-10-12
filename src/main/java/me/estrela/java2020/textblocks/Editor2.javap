@@ -1,6 +1,6 @@
 Compiled from "Editor2.java"
-public class me.estrela.java2020.tb.Editor2 {
-  public me.estrela.java2020.tb.Editor2();
+public class me.estrela.java2020.textblocks.Editor2 {
+  public me.estrela.java2020.textblocks.Editor2();
     Code:
        0: aload_0
        1: invokespecial #1                  // Method java/lang/Object."<init>":()V

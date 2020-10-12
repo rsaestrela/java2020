@@ -1,4 +1,4 @@
-package me.estrela.java2020.tb;
+package me.estrela.java2020.textblocks;
 
 import java.time.LocalDate;
 

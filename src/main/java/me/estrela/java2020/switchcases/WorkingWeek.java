@@ -1,4 +1,4 @@
-package me.estrela.java2020.sc;
+package me.estrela.java2020.switchcases;
 
 public class WorkingWeek {
 
